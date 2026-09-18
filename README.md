@@ -2,6 +2,8 @@
 
 A hands-on demonstration of how Lambda functions with insecure secret management and overprivileged IAM roles lead to data breaches — and how to detect and prevent them.
 
+> *Related images can be found in the `'/images'` directory.*
+
 ## 📖 Overview
 
 This project demonstrates a **complete attack lifecycle** in AWS:
